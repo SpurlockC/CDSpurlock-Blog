@@ -2,9 +2,9 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const posts = [
-  { id: 1, title: 'Understanding React Hooks', date: 'Oct 4, 2024' },
-  { id: 2, title: 'What is TailwindCSS?', date: 'Oct 3, 2024' },
-  { id: 3, title: 'Getting started with Netlify', date: 'Oct 2, 2024' },
+  { id: 1, title: 'Working with React and HTML', date: 'Oct 5, 2024' },
+  { id: 2, title: 'Lets use TailwindCSS', date: 'Oct 5, 2024' },
+  { id: 3, title: 'Netlify is host this site', date: 'Oct 5, 2024' },
 ];
 
 const Home = () => {

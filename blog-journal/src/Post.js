@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 
 const posts = {
   1: { title: 'Working with React and HTML', content: 'This post explains React and HTML...', date: 'Oct 5, 2024' },
-  2: { title: 'Lets use TailwindCSS?', content: 'TailwindCSS is used in this site...', date: 'Oct 5, 2024' },
+  2: { title: 'Lets use TailwindCSS', content: 'TailwindCSS is used in this site...', date: 'Oct 5, 2024' },
   3: { title: 'Netlify is host this site', content: 'Netlify is a powerful platform to deploy websites...', date: 'Oct 5, 2024' }
 };
 
