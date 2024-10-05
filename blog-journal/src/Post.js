@@ -2,9 +2,9 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 
 const posts = {
-  1: { title: 'Understanding React Hooks', content: 'This post explains React hooks...', date: 'Oct 4, 2024' },
-  2: { title: 'What is TailwindCSS?', content: 'TailwindCSS is a utility-first CSS framework...', date: 'Oct 3, 2024' },
-  3: { title: 'Getting started with Netlify', content: 'Netlify is a powerful platform to deploy websites...', date: 'Oct 2, 2024' }
+  1: { title: 'Working with React and HTML', content: 'This post explains React and HTML...', date: 'Oct 5, 2024' },
+  2: { title: 'Lets use TailwindCSS?', content: 'TailwindCSS is used in this site...', date: 'Oct 5, 2024' },
+  3: { title: 'Netlify is host this site', content: 'Netlify is a powerful platform to deploy websites...', date: 'Oct 5, 2024' }
 };
 
 const Post = () => {
